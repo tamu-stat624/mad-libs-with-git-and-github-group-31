@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Siva
+2. Gigantic
+3. Spiral
+4. Blue
+5. August
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
